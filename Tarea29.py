@@ -21,6 +21,6 @@
 # Mientras - while
  
 contador = 0 
-while contador <= 15:
+while contador <= 10:
     print("Numero: ", contador)
     contador += 1
