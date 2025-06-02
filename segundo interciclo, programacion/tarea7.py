@@ -6,12 +6,9 @@ def computepay(horas, tarifa):
         salario = horas * tarifa
     return salario
 
-# Datos de entrada
 horas = 45
 tarifa = 10
 
-# Cálculo del salario
 salario = computepay(horas, tarifa)
 
-# Mostrar resultado
 print("Salario:", salario)
