@@ -11,6 +11,4 @@ print(es_par(4))
 print(es_par(7)) 
 
 #3.	Crear una función presentarse(nombre, edad) que imprima un mensaje con tus datos.
-def presentarse(nombre, edad):
-    print(f"Hola, me llamo {nombre} y tengo {edad} años.")
-presentarse("Jereminho",18)
+6
